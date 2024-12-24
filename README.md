@@ -28,7 +28,7 @@ A powerful local RAG (Retrieval Augmented Generation) application that lets you 
 
    ```bash
    git clone https://github.com/mamadoukane/RAG_chat_with_your_pdf.git
-   cd ollama_pdf_rag
+   cd RAG_chat_with_your_pdf
    ```
 
 3. **Set Up Environment**
